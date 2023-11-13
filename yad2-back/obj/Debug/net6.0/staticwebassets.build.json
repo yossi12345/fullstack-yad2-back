@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gHD5bTzV5HC7etHVdK3MLzfzvFxb3APza9/ZWq4gIIs=",
+  "Source": "yad2-back",
+  "BasePath": "_content/yad2-back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

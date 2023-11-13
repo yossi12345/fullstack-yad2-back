@@ -79,7 +79,7 @@ namespace yad2_back
             app.UseHttpsRedirection();
             app.UseRouting();
             app.UseCors();
-            app.UseAuthorization();
+            app.UseAuthentication();
             app.UseAuthorization();
             app.MapControllers();
 

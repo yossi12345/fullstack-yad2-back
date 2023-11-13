@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\yad2-back.props" />
+</Project>
